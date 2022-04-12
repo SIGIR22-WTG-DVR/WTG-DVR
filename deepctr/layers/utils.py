@@ -2,7 +2,7 @@
 """
 
 Author:
-    Weichen Shen,weichenswc@163.com
+    Anonymous Author
 
 """
 from numpy.core.fromnumeric import mean
